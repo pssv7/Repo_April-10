@@ -1,0 +1,2 @@
+#define REPOATTENDAPRIL10_API __declspec(dllexport)
+#define REPOATTENDAPRIL10_API __declspec(dllimport)
